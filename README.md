@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello, welcome to my Github 👋
+### Sou Jessica Neves, sou formada em Educação Física e estou em transição de carreira para a área da tecnologia. Atualmente estou cursando Sistemas para Internet (UNIESP) e estou buscando me capacitar como Desenvolvedora Back-end. 
+> Aqui você irá acompanhar a minha evolução como dev. 😄
+
 
 <!--
 **jessic4neves/jessic4neves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
