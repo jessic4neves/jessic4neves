@@ -3,7 +3,7 @@
 > Aqui você irá acompanhar a minha evolução como dev. 😄 
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessic4neves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jessic4neves&layout=compact&langs_count=16&theme=dracula"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jessic4neves&layout=compact&langs_count=16&theme=dracula"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/></a>
 </div>   
    
 <div style="display: inline_block"><br>
