@@ -3,10 +3,6 @@
 > Aqui você irá acompanhar a minha evolução como dev. 😄 
 
 
-<div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessic4neves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessic4neves&layout=compact&langs_count=16&theme=dracula"/>
-<div style="display: inline_block"><br>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
