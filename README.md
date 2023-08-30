@@ -1,5 +1,5 @@
 # Hello, welcome to my Github 👋
-### Olá! Meu nome é Jessica Neves, sou formada em Educação Física e estou em transição de carreira para a área da tecnologia. Atualmente estou cursando Sistemas para Internet (UNIESP) e estou buscando me capacitar como Quality Assurance (QA). 
+### Olá! Meu nome é Jessica Neves, sou formada em Educação Física e estou em transição de carreira para a área da tecnologia. Atualmente estou cursando Sistemas para Internet (UNIESP) e estou buscando me capacitar como desenvolvedora. 
 > Aqui você irá acompanhar a minha evolução como dev. 😄 
 
 
