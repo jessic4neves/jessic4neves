@@ -1,6 +1,9 @@
 # Hello, welcome to my Github 👋
-### Olá! Meu nome é Jessica Neves, sou formada em Educação Física e estou em transição de carreira para a área da tecnologia. Atualmente estou cursando Sistemas para Internet (UNIESP) e estou buscando me capacitar como Analista de Dados.
-> Aqui você irá acompanhar a minha evolução como dev. 😄 
+### Olá! Sou estudante de Sistemas para Internet e atualmente estagiária de Tech Writer na SmartSpace by Digivox. Sou apaixonada por tecnologia e sempre em busca de aprender e crescer profissionalmente. Meus interesses incluem desenvolvimento web, documentação técnica e UX/UI design. 
+
+### Aqui você irá encontrar meus aprendizados na faculdade e projetos pessoais.
+
+> Aqui você vai acompanhar a minha evolução. 😄 
 
 
  
