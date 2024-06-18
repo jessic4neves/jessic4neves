@@ -1,5 +1,5 @@
 # Hello, welcome to my Github 👋
-### Olá! Sou estudante de Sistemas para Internet e atualmente estagiária de Tech Writer na SmartSpace by Digivox. Sou apaixonada por tecnologia e sempre em busca de aprender e crescer profissionalmente. Meus interesses incluem documentação técnica e UX design. Além disso, tenho bastante afinidade com Product Owner e Gerenciamento de Projeto.  
+### Olá! Sou estudante de Sistemas para Internet e atualmente estagiária de Tech Writer na SmartSpace by Digivox. Sou apaixonada por tecnologia e sempre em busca de aprender e crescer profissionalmente. Meus interesses incluem documentação técnica e experiência do usuário (UX). Além disso, tenho bastante afinidade com Product Owner e Gerenciamento de Projeto.  
 
 ### Aqui você irá encontrar meus aprendizados na faculdade e projetos pessoais.
 
