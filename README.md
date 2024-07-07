@@ -1,5 +1,5 @@
 # Oi, tudo joia? ✨
-### Sou uma estagiária de Tech Writer em busca de aprimorar minhas habilidades na área de documentação técnica. Atualmente, estou focada em cursos e treinamentos voltados para a criação e manutenção de documentação técnica e APIs. Adoro transformar informações complexas em conteúdo claro e acessível.  
+### Sou estagiária de Tech Writer, dedicada a aprimorar minhas habilidades na escrita técnica. Atualmente, estou focada em cursos e treinamentos voltados à criação e manutenção de documentação técnica e APIs. Meu objetivo é transformar informações complexas em conteúdo claro e acessível para os usuários e times de desenvolvimento.
 
 
 > Acompanhe minha evolução por aqui. 👩🏻‍💻
