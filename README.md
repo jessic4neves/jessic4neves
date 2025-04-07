@@ -1,4 +1,4 @@
-# Oi, tudo joia? ✨
+# Olá! ✨
 ### Sou Technical Writer, dedicada a aprimorar minhas habilidades na escrita técnica. Atualmente, estou focada em cursos e treinamentos voltados à criação e manutenção de documentação técnica e APIs. Meu objetivo é transformar informações complexas em conteúdo claro e acessível para os usuários e times de desenvolvimento.
 
 
