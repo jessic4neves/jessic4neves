@@ -1,5 +1,5 @@
 # Olá! ✨
-### Sou Technical Writer, dedicada a aprimorar minhas habilidades na escrita técnica. Atualmente, estou focada em cursos e treinamentos voltados à criação e manutenção de documentação técnica e APIs. Meu objetivo é transformar informações complexas em conteúdo claro e acessível para os usuários e times de desenvolvimento.
+### Atuo como tech writer no Banco do Brasil, onde produzo documentações técnicas com foco em SRE (Site Reliability Engineering). Estou em constante evolução na área, atualmente cursando análise e desenvolvimento de sistemas para aprofundar ainda mais minha base técnica.
 
 
 > Acompanhe minha evolução por aqui. 👩🏻‍💻
