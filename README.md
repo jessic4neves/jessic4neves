@@ -2,7 +2,7 @@
 ### Atuo como tech writer no Banco do Brasil, onde produzo documentações técnicas com foco em SRE (Site Reliability Engineering). Estou em constante evolução na área, atualmente cursando análise e desenvolvimento de sistemas para aprofundar ainda mais minha base técnica.
 
 
-> Acompanhe minha evolução por aqui. 👩🏻‍💻
+
 
 
 
